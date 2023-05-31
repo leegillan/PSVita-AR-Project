@@ -1,0 +1,12 @@
+
+build/vs2017/\.vs/
+
+build/vs2017/PSVita_Debug/
+
+build/vs2017/PSVita/
+
+ar_vita/build/vs2017/PSVita_Debug/
+
+ar_vita/build/vs2017/PSVita_Release/
+
+build/vs2017/PSVita_Release/
